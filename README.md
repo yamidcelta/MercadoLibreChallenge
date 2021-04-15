@@ -73,7 +73,7 @@ Se tiene como criterios adicionales asumidos y/o entendidos.
 
 # ARQUITECTURA
 
-Patrón a 3 Capas, con NodeJs (expres)
+Patrón a 3 Capas, con NodeJs (express)
 
 # COMPONENTES USADOS
 
@@ -91,7 +91,7 @@ Se deben tener ejecutados los siguientes servicios cloud
 
 Clonar el repositorio
 
-``$ git clone https://github.com/dragonclaw/magnetoTest.git`` 
+``$ git clone https://yamid-mercadolibre.ue.r.appspot.com/`` 
 
 
 Se uso `node` version `14.9.0`
